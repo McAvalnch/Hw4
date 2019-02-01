@@ -1,3 +1,0 @@
-# Authors
-
-Nick Roberts
